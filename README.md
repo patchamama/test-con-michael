@@ -15,3 +15,4 @@ git commit -am "message"
 git push
 ```
 
+Para conocer sí hay algo pendiente `git status`
