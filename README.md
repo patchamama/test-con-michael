@@ -8,7 +8,7 @@ git commit -m "message"
 git push
 ```
 
-Lo mismo:
+Lo mismo pero no agrega nuevos archivos, sino que solo actualiza los archivos actualizados:
 
 ```sh
 git commit -am "message"
