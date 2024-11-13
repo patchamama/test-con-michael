@@ -1,6 +1,8 @@
 # Proyecto de prueba con Michael
 
-Ver el index [aquí](index.html).
+## Lo básico-básico the comandos git para hacer los commits en los proyectos del code institute:
+
+> Estos comandos se usan para usar sin crear ninguna rama (branch) usando por defecto la rama `main` o la que esté por defecto desde github.
 
 ```sh
 git add .
@@ -15,4 +17,4 @@ git commit -am "message"
 git push
 ```
 
-Para conocer sí hay algo pendiente `git status`
+Para conocer sí hay algo pendiente para agregar al stage `git status`
